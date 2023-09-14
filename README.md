@@ -26,8 +26,8 @@
                 <br>
                 </div>
                 <p align="right">
-                <img src="https://skillicons.dev/icons?i=github,java,git,html,css,"><br>
-                <img src="https://skillicons.dev/icons?i=photoshop,vscode,pr,ae,md">
+                <img src="https://skillicons.dev/icons?i=java,git,html,css,"><br>
+                <img src="https://skillicons.dev/icons?i=photoshop,vscode,pr,md">
                 </p>
                 </div>
         </div>
