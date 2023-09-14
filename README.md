@@ -22,7 +22,7 @@
         <div>
             <h2 align="center">~ 📖 𝕂𝕟𝕠𝕨𝕝𝕖𝕕𝕘𝕖 📖 ~</h2>
                 <div align="left">
-                    <img src="https://media.tenor.com/miRXcFXUPEUAAAAC/vestia-zeta.gif" align="left" width="" height="200">
+                    <img src="https://media.tenor.com/miRXcFXUPEUAAAAC/vestia-zeta.gif" align="left" height="200">
                 <br>
                 </div>
                 <p align="right">
