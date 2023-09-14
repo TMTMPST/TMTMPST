@@ -1,7 +1,7 @@
 <body>
 <img align="right" src="https://komarev.com/ghpvc/?username=TMTMPST&label=Profile%20views&color=0e75b6&style=flat" alt="TMPTMPST"/>
     <center>
-        <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Horizon+Bold&pause=1000&color=C01ABC&width=435&lines=~+Welcome+To+My+Profile+~;I'm+Vidi!!" alt="Typing SVG" /></a></h1>
+        <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Horizon+Bold&size=30&pause=1000&color=C01ABC&width=435&lines=~+Welcome+To+My+Profile+~;I'm+Vidi!!" alt="Typing SVG" ></a></h1>
         <br>
         <div align="center">
             <img src="https://i.imgur.com/oo2ezd3.gif" />
