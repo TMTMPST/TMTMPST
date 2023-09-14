@@ -19,5 +19,6 @@
             <br><br><br><br><br><br><br><br>
         </div>
         <div>
-            <h2>~ 📖 𝕂𝕟𝕠𝕨𝕝𝕖𝕕𝕘𝕖 📖 ~</h2>
+            <h2 align="center">~ 📖 𝕂𝕟𝕠𝕨𝕝𝕖𝕕𝕘𝕖 📖 ~</h2>
+                <div>
 
