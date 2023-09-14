@@ -25,8 +25,8 @@
                     <img src="https://media.tenor.com/miRXcFXUPEUAAAAC/vestia-zeta.gif" align="left" width="" height="200">
                 <br>
                 </div>
-                <img src="https://skillicons.dev/icons?i=github,java,git,html,css," /><br>
-                <img src="https://skillicons.dev/icons?i=photoshop,vscode,pr," /><br><br>
+                <img src="https://skillicons.dev/icons?i=github,java,git,html,css," align="right"><br>
+                <img src="https://skillicons.dev/icons?i=photoshop,vscode,pr,ae,md" align="right"><br><br>
                 </div>
         </div>
         <div>
