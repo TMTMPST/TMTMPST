@@ -29,7 +29,6 @@
                 <img src="https://skillicons.dev/icons?i=photoshop,vscode,pr," /><br><br>
                 </div>
         </div>
-        <hr/>
         <div>
             <h2>~ Stats ~</h2>
 
