@@ -15,10 +15,11 @@
             <li> <b>Class   :</b> 1 </li>
             <li> <b>Gender  :</b> Male </li>
             <li> <b>Pronoun :</b> He/Him </li>
-            <li> <b>Hobby   :</b> Playing Games </li>
+            <li> <b>Hobby   :</b> Ai Stuff, Playing Games </li>
             <br><br><br><br><br><br><br><br>
         </div>
         <div>
             <h2 align="center">~ 📖 𝕂𝕟𝕠𝕨𝕝𝕖𝕕𝕘𝕖 📖 ~</h2>
+                <br>
                 <div>
 
