@@ -21,15 +21,17 @@
         </div>
         <div>
             <h2 align="center">~ 📖 𝕂𝕟𝕠𝕨𝕝𝕖𝕕𝕘𝕖 📖 ~</h2>
-                <div align="center">
+                <div align="left">
                     <img src="https://media.tenor.com/miRXcFXUPEUAAAAC/vestia-zeta.gif" align="left" width="" height="200">
                 <br>
                 </div>
-                <img src="https://skillicons.dev/icons?i=github,java,git,html,css," align="right"><br>
-                <img src="https://skillicons.dev/icons?i=photoshop,vscode,pr,ae,md" align="right"><br><br>
+                <p align="center">
+                <img src="https://skillicons.dev/icons?i=github,java,git,html,css,"><br>
+                <img src="https://skillicons.dev/icons?i=photoshop,vscode,pr,ae,md"><br><br>
+                </p>
                 </div>
         </div>
         <div>
-            <h2>~ Stats ~</h2>
+            <h2 align="center">~ Stats ~</h2>
 
 
