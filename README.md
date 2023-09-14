@@ -8,7 +8,7 @@
         <div>
             <h2 align="center">~ ㊙️ 𝔸𝕓𝕠𝕦𝕥 𝕞𝕖 ㊙️ ~ </h2>
                 <div align="center">
-                    <img src="https://media.tenor.com/zzKH8jjb5WoAAAAC/guruguru-hololive.gif" align="right" height="300" width="150"> 
+                    <img src="https://media.tenor.com/zzKH8jjb5WoAAAAC/guruguru-hololive.gif" align="right" height="300" width="200"> 
                 </div>
             <li> <b>Name :</b> Vidi Joshubzky Saviola </li>
             <li> <b>School :</b> Malang State Polytechnic </li>
@@ -18,3 +18,4 @@
             <li> <b>Hobby :</b> Playing Games </li>
             <br><br><br>
         </div>
+
