@@ -23,7 +23,6 @@
             <h2 align="center">~ 📖 𝕂𝕟𝕠𝕨𝕝𝕖𝕕𝕘𝕖 📖 ~</h2>
                 <div align="left">
                     <img src="https://media.tenor.com/miRXcFXUPEUAAAAC/vestia-zeta.gif" align="left" width="190px" height="150px">
-                <br>
                 </div>
                 <p align="right">
                 <img src="https://skillicons.dev/icons?i=java,git,html,css,"><br>
