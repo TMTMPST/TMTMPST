@@ -1,6 +1,7 @@
 <body>
+<img align="right" src="https://komarev.com/ghpvc/?username=TMTMPST&label=Profile%20views&color=0e75b6&style=flat" alt="TMPTMPST"/>
     <center>
-        <h1 align="center">~ 你好 我是维迪 ~</h1>
+        <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Horizon+Bold&pause=1000&color=C01ABC&width=435&lines=~+Welcome+To+My+Profile+~;I'm+Vidi!!" alt="Typing SVG" /></a></h1>
         <br>
         <div align="center">
             <img src="https://i.imgur.com/oo2ezd3.gif" />
@@ -20,6 +21,10 @@
         </div>
         <div>
             <h2 align="center">~ 📖 𝕂𝕟𝕠𝕨𝕝𝕖𝕕𝕘𝕖 📖 ~</h2>
+                <div align="center">
+                    <img src="https://media.tenor.com/miRXcFXUPEUAAAAC/vestia-zeta.gif" align="left" width="" height="200">
                 <br>
-                <div>
+                </div>
+                
+</p>
 
