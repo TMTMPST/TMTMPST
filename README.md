@@ -34,6 +34,6 @@
                     <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=TMTMPST&theme=dracula&hide_border=false" alt="streak stats"/>
                     </br>
                     <img width 325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=TMTMPST&theme=dracula&show_icons=true&hide_border=false&layout=compact" alt="top lang"/>
-
+                </div>
 
 
