@@ -28,6 +28,12 @@
                 </div>
         </div>
         <div>
-            <h2 align="center">~ Stats ~</h2>
+            <h2 align="center">~ Stats ~</h2><br>
+                <div align="center">
+                    <img width=390 src="https://github-readme-stats.vercel.app/api?username=TMTMPST&theme=dracula&show_icons=true&hide_border=false&count_private=true" alt="readme stats"/>
+                    <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=TMTMPST&theme=dracula&hide_border=false" alt="streak stats"/>
+                    </br>
+                    <img width 325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=TMTMPST&theme=dracula&show_icons=true&hide_border=false&layout=compact" alt="top lang"/>
+
 
 
