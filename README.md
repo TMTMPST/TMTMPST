@@ -11,7 +11,7 @@
                 <div align="center">
                     <img src="https://media.tenor.com/zzKH8jjb5WoAAAAC/guruguru-hololive.gif" align="right" width="190px" height="208.5px"> 
                 </div>
-            <li> <b>Name    :</b> Vidi Joshubzky Saviola </li>
+            <li> <b>Name :</b> Vidi Joshubzky Saviola </li>
             <li> <b>School  :</b> Malang State Polytechnic </li>
             <li> <b>Class   :</b> 1 </li>
             <li> <b>Gender  :</b> Male </li>
