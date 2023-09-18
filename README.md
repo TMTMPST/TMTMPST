@@ -36,7 +36,3 @@
                     <img width 325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=TMTMPST&theme=dracula&show_icons=true&hide_border=false&layout=compact" alt="top lang"/>
                 </div>
         </div>
-        <div align="center">
-            <h2> 🐍 My Contributions 🐍 </h2>
-            <br>
-            <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/TMTMPST/TMTMPTS/.github/workflows/github-contribution-grid-snake.svg" />
