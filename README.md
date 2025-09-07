@@ -13,7 +13,7 @@
                 </div>
             <li> <b>Name :</b> Vidi Joshubzky Saviola </li>
             <li> <b>School  :</b> Malang State Polytechnic </li>
-            <li> <b>Class   :</b> 2 </li>
+            <li> <b>Class   :</b> 3 </li>
             <li> <b>Gender  :</b> Male </li>
             <li> <b>Pronoun :</b> He/Him </li>
             <li> <b>Hobby   :</b> Ai Stuff, Playing Games </li>
